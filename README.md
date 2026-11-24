@@ -49,3 +49,7 @@ Para auditoria aprofundada de imagens e analise visual de catalogo:
 ## Consultoria em Acessibilidade Visual e Performance
 
 Para otimizacao de catalogos digitais e conformidade com Diretrizes de Acessibilidade W3C WCAG e SEO Google, contate os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
